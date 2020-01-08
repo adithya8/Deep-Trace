@@ -16,5 +16,5 @@ An optimizer is used to offset the loss incurred due to the non-provision of fut
 
 
 - All the code files are inside the folder `Final Bi-CLDNN`.
--- The required functions are inside `Model_Functions.py`.
--- The data will be uploaded to a drive and the link will be updated in this document soon.
+- The required functions are inside `Final Bi-CLDNN/Model_Functions.py`.
+- The data will be uploaded to a drive and the link will be updated in this document soon.
