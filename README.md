@@ -15,3 +15,6 @@ We also introduce a novel training methodology by using future contextual frames
 An optimizer is used to offset the loss incurred due to the non-provision of future contextual frames. The genericness of the framework is tested by evaluating the performance on real-world time series datasets across diverse domains. We conducted substantial experiments that show the proposed framework outperforms the existing state-of-art methods.
 
 
+- All the code files are inside the folder `Final Bi-CLDNN`.
+-- The required functions are inside `Model_Functions.py`.
+-- The data will be uploaded to a drive and the link will be updated in this document soon.
